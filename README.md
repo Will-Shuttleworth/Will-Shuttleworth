@@ -1,7 +1,3 @@
-23 | Glasgow, Scotland
+24 | Newcastle upon Tyne, UK
 
-Currently working on: 
-
-Personal website (https://will-shuttleworth.github.io/website/)
-
-Learning .NET MAUI / MVVM
+currently a student at University of Sunderland studying Computer Systems Engineering
